@@ -15,6 +15,9 @@
                     <li class="nav-item">
                         <router-link class="nav-link" to="/users">Utilisateurs</router-link>
                     </li>
+                    <li class="nav-item">
+                        <router-link class="nav-link" to="/comptes">Comptes</router-link>
+                    </li>
                 </ul>
             </div>
         </nav>

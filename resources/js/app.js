@@ -11,11 +11,14 @@ require('./bootstrap');
 
 window.Vue = require('vue');
 import VueRouter from 'vue-router';
+Vue.component('pagination', require('laravel-vue-pagination'));
+Vue.component('loading', require('vue-loading-overlay'));
 import Home from "./components/home/Home";
 import UserIndex from "./components/users/UserIndex";
 
-Vue.use(VueRouter);
+import 'vue-loading-overlay/dist/vue-loading.css';
 
+Vue.use(VueRouter);
 Vue.component('App', require('./components/App.vue').default);
 
 const routes = [

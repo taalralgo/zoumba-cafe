@@ -10,6 +10,7 @@
 ## A propos du projet
 
 Une petite application pour gérer les commandes (déjeûner, café etc...) que je passe au bureau.
+- Backend: Laravel et front VUEJS.
 - Créer par [Daouda THERA](https://github.com/taalralgo).
 
 Vous pouvez me contacter via [ddthera@gmail.com](mailto:ddthera@gmail.com) si vous êtes à la recherche d'un dévéloppeur web.

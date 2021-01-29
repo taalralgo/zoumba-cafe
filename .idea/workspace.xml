@@ -7,7 +7,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
@@ -137,10 +137,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/js/components/users" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ddthe\Downloads\Dev\zoumbacafe\resources\js\components\users" />
       <recent name="C:\Users\ddthe\Downloads\Dev\zoumbacafe\resources\views" />
     </key>
   </component>
@@ -160,7 +161,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611440740386</updated>
-      <workItem from="1611440744890" duration="2503000" />
+      <workItem from="1611440744890" duration="9952000" />
+      <workItem from="1611488462478" duration="624000" />
+      <workItem from="1611848821689" duration="768000" />
     </task>
     <servers />
   </component>
